@@ -6,6 +6,7 @@
         {
             AddTestData<LowGradeVehicleFactory, LowGradeCar>();
             AddTestData<HighGradeVehicleFactory, HighGradeCar>();
+            AddTestData<MiddleGradeVehicleFactory, MiddleGradeCar>();
         }
     }
 

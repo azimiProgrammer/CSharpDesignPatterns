@@ -5,4 +5,5 @@
         public IBike CreateBike() => new HighGradeBike();
         public ICar CreateCar() => new HighGradeCar();
     }
+
 }

@@ -12,4 +12,7 @@ namespace AbstractFactory
     public class LowGradeBike : IBike { }
     public class HighGradeCar : ICar { }
     public class HighGradeBike : IBike { }
+
+    public class MiddleGradeCar : ICar { }
+    public class MiddleGradeBike : IBike { }
 }
